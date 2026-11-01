@@ -16,4 +16,5 @@ Backend API sederhana yang dibuat menggunakan **Node.js**, **Express**, dan **SQ
 # Cara installasi & menjalankan
 1. Clone repository ini ke komputermu
 2. Install dependencies:
-```bash npm install
+```bash 
+npm install
